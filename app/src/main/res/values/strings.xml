@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Roulette Visual App</string>
+    <string name="button_send">Start</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">Roulette Visual App</string>
+    <string name="logs_cleared">Logs have been successfully cleared</string>
+    <string name="application_started">Application started.</string>
+    <!--<string name="edit_message">http://10.0.2.2:8080/RouletteServer/Response</string>-->
+    <string name="edit_message">http://126.235.167.51:8080/RouletteServer/Response</string>
+    <string name="application_intro_name">Roulette Visual App</string>
+</resources>
